@@ -1,0 +1,30 @@
+_repo: Long-Will_42176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Converse, Florence
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '877'
+    url: http://www.gutenberg.org/2009/agents/877
+description: ''
+gutenberg_issued: '2013-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tyler''s Insurrection, 1381 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Great Britain -- History -- 14th century -- Fiction'
+- !lcsh 'Poets, English -- 14th century -- Fiction'
+- !lcsh 'England -- Social life and customs -- 1066-1485 -- Fiction'
+- !lcsh 'Langland, William, 1330?-1400? -- Fiction'
+title: Long Will
+url: http://www.gutenberg.org/ebooks/42176
